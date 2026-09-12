@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="530" viewBox="0 0 850 530" role="img" aria-labelledby="title desc">
+<title id="title">Languages across 13 project repositories</title>
+<desc id="desc">Share of GitHub-reported language bytes. Snapshot September 12, 2026.</desc>
+<rect width="850" height="530" rx="20" fill="#0d1117"/>
+<g font-family="Arial, sans-serif" fill="#e6edf3">
+<text x="32" y="46" font-size="25" font-weight="700">Languages across my projects</text>
+<text x="32" y="74" font-size="14" fill="#9da7b3">13 repositories · share of GitHub-reported bytes · September 12, 2026</text>
+<text x="32" y="126" font-size="14">Jupyter Notebook</text>
+<rect x="188" y="112" width="550" height="19" rx="5" fill="#21262d"/>
+<rect x="188" y="112" width="188.08" height="19" rx="4" fill="#f59e0b"/>
+<text x="808" y="126" text-anchor="end" font-size="14">34.2%</text>
+<text x="32" y="165" font-size="14">Java</text>
+<rect x="188" y="151" width="550" height="19" rx="5" fill="#21262d"/>
+<rect x="188" y="151" width="124.05" height="19" rx="4" fill="#f97316"/>
+<text x="808" y="165" text-anchor="end" font-size="14">22.6%</text>
+<text x="32" y="204" font-size="14">Python</text>
+<rect x="188" y="190" width="550" height="19" rx="5" fill="#21262d"/>
+<rect x="188" y="190" width="84.02" height="19" rx="4" fill="#60a5fa"/>
+<text x="808" y="204" text-anchor="end" font-size="14">15.3%</text>
+<text x="32" y="243" font-size="14">JavaScript</text>
+<rect x="188" y="229" width="550" height="19" rx="5" fill="#21262d"/>
+<rect x="188" y="229" width="75.46" height="19" rx="4" fill="#facc15"/>
+<text x="808" y="243" text-anchor="end" font-size="14">13.7%</text>
+<text x="32" y="282" font-size="14">C++</text>
+<rect x="188" y="268" width="550" height="19" rx="5" fill="#21262d"/>
+<rect x="188" y="268" width="37.81" height="19" rx="4" fill="#f472b6"/>
+<text x="808" y="282" text-anchor="end" font-size="14">6.9%</text>
+<text x="32" y="321" font-size="14">CSS</text>
+<rect x="188" y="307" width="550" height="19" rx="5" fill="#21262d"/>
+<rect x="188" y="307" width="22.48" height="19" rx="4" fill="#a78bfa"/>
+<text x="808" y="321" text-anchor="end" font-size="14">4.1%</text>
+<text x="32" y="360" font-size="14">HTML</text>
+<rect x="188" y="346" width="550" height="19" rx="5" fill="#21262d"/>
+<rect x="188" y="346" width="9.03" height="19" rx="4" fill="#34d399"/>
+<text x="808" y="360" text-anchor="end" font-size="14">1.6%</text>
+<text x="32" y="399" font-size="14">PLpgSQL</text>
+<rect x="188" y="385" width="550" height="19" rx="5" fill="#21262d"/>
+<rect x="188" y="385" width="7.85" height="19" rx="4" fill="#fb7185"/>
+<text x="808" y="399" text-anchor="end" font-size="14">1.4%</text>
+<text x="32" y="438" font-size="14">Makefile</text>
+<rect x="188" y="424" width="550" height="19" rx="5" fill="#21262d"/>
+<rect x="188" y="424" width="1.22" height="19" rx="4" fill="#94a3b8"/>
+<text x="808" y="438" text-anchor="end" font-size="14">0.2%</text>
+<text x="32" y="489" font-size="12" fill="#9da7b3">Jupyter Notebook is GitHub’s file category; the notebook uses Python.</text>
+<text x="32" y="511" font-size="12" fill="#9da7b3">Two SQL-only repositories currently have no language totals from GitHub.</text>
+</g></svg>

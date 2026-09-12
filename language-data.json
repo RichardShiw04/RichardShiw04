@@ -1,0 +1,58 @@
+{
+  "as_of": "2026-09-12",
+  "metric": "GitHub language bytes",
+  "repositories": {
+    "anime-vector-search": {
+      "Jupyter Notebook": 143650
+    },
+    "stock-market-dashboard": {
+      "JavaScript": 42403,
+      "Python": 21260,
+      "CSS": 17166,
+      "PLpgSQL": 5999,
+      "HTML": 364
+    },
+    "jam-ingredients-database": {},
+    "orientdb-order-manager": {
+      "JavaScript": 15228
+    },
+    "dna-sequence-alignment": {
+      "Java": 14793
+    },
+    "card-matching-game": {
+      "C++": 28875,
+      "Makefile": 935
+    },
+    "maze-pathfinder": {
+      "Java": 17278
+    },
+    "student-grades-database": {},
+    "word-finder": {
+      "Java": 11006
+    },
+    "hex-grid-pathfinding": {
+      "Java": 51663
+    },
+    "postgresql-query-tools": {
+      "Python": 2372
+    },
+    "inbox-lens": {
+      "Python": 12664,
+      "HTML": 6530
+    },
+    "Richard-Shiwmangal--Self-Project-code": {
+      "Python": 27878
+    }
+  },
+  "totals": {
+    "Jupyter Notebook": 143650,
+    "Java": 94740,
+    "Python": 64174,
+    "JavaScript": 57631,
+    "C++": 28875,
+    "CSS": 17166,
+    "HTML": 6894,
+    "PLpgSQL": 5999,
+    "Makefile": 935
+  }
+}

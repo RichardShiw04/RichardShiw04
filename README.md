@@ -2,6 +2,12 @@
 
 I build projects in Python, Java, C++, JavaScript, and SQL, exploring machine learning, databases, pathfinding, and practical web applications.
 
+## Language overview
+
+![Language breakdown across my 13 project repositories](languages.svg)
+
+Snapshot of GitHub-reported language bytes across all 13 public project repositories, excluding this profile repository. Notebook bytes are shown as **Jupyter Notebook** (the code uses Python). GitHub currently returns no language totals for Jam Ingredients Database and Student Grades Database, so their SQL is not represented in the percentages. This measures repository content, not proficiency. [View source totals](language-data.json).
+
 ## Featured project
 
 **[Inbox Lens](https://github.com/RichardShiw04/inbox-lens)** — a local email spam classifier with word-level explanations, a browser interface, CSV training, and held-out evaluation. Built with Python's standard library and automated tests.
